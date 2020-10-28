@@ -1,4 +1,4 @@
-# Creative agency client side code
+# Creative agency server side code
 **Where someone can books IT sector projects like web design, graphics design.**
 ## Overall details
 
