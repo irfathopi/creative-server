@@ -8,7 +8,7 @@
 4. Admin can see all bookings of the client.
 5. Client can give a review that will be available on the dashboard.
 6. Clients can see his project submission.
-7. There is a login page which wile define who is admin and who is client.
+7. There is a login page that will define who is admin and who is the client
 
 ### Technology Used
 
